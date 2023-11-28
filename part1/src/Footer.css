@@ -1,0 +1,10 @@
+.Footer{
+    background-color: gainsboro;
+    width: 100vw;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0px;
+}
